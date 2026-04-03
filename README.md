@@ -19,5 +19,3 @@ From Taipei and is a student of Computer Science at NTPU. Great understanding of
 ![](https://nirzak-streak-stats.vercel.app/?user=Yingwei1028&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yingwei1028&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yingwei1028&theme=radical&no-frame=false&no-bg=true&margin-w=4)
