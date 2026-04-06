@@ -8,10 +8,40 @@ From Taipei and is a student of Computer Science at NTPU. Great understanding of
 * 🎖️ **Honorable Mention** | 2025 Interdisciplinary SoC Innovative Project Contest 
 * 🎖️ **Honorable Mention** | 2025 AI Intelligent Automation Equipment Invention Awards 
 
-## 🚀 Research & Projects:
-* **Muscle Fatigue Quantification System:** Developed a wearable device integrating multi-wavelength NIRS and **LSTM-CNN** models, optimized for edge deployment using **TensorFlow Lite**.
-* **Cybersickness Adaptation System:** Research Assistant for a NSTC-funded program, building a gait balance sensing system using **IMU** and **Raspberry Pi Zero 2 W**.
-* **Smart Helmet Detection:** Implemented real-time safety detection using **YOLOv8** on Raspberry Pi.
+## 🔍 Research Experience
+### A Portable Real-Time Sensing System for Muscle Fatigue Quantification
+* **Role**: Team Leader | NSTC Undergraduate Research Program
+* **Key Tech**: CNN-LSTM, NIRS, Luckfox Pico (NPU), Embedded Linux, I2C
+* **Description**: 
+    * Designed and soldered a wearable NIRS sensing circuit (750/810/870nm) for real-time physiological signal acquisition.
+    * Developed a **CNN-LSTM model** achieving **89.15% accuracy** in classifying muscle fatigue levels.
+    * Deployed the model on **Luckfox Pico Mini** with onboard NPU for real-time edge inference.
+    * **Outcomes**: manuscript under revision at **IEEE Sensors Journal**.
+
+### Personalized Adaptation System for Cybersickness
+* **Role**: Research Assistant | NTPU Featured Domain Research Program
+* **Key Tech**: VR (Unity), IMU, Raspberry Pi Zero 2 W
+* **Description**: 
+    * Developed a **Unity-based VR environment** for cybersickness adaptation training.
+    * Integrated real-time IMU balance data to dynamically adjust VR parameters, effectively reducing user symptoms.
+
+---
+## 💻 Project Experience
+### AI-Powered Anime Recommendation Web Application
+* **Key Tech**: Python Flask, OpenAI API, AniList GraphQL API, HTML5/CSS3
+* **Description**: 
+    * Built a full-stack application enabling **natural language-based** anime recommendations.
+    * Integrated GraphQL API for real-time metadata retrieval and designed a fully responsive UI.
+
+### Multiplayer Bingo Game with Real-Time Networking
+* **Key Tech**: Flutter (Dart), TCP Socket Communication
+* **Description**: 
+    * Developed a cross-platform mobile game supporting real-time multiplayer synchronization via a **custom TCP socket architecture**.
+
+### Smart Helmet Detection System
+* **Key Tech**: YOLOv8, Raspberry Pi, Python
+* **Description**: 
+    * Developed and deployed a real-time safety helmet detection system using **YOLOv8** on edge devices.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yingwei-chen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yingway2013@gmail.com) 
